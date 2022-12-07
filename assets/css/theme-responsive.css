@@ -1,0 +1,137 @@
+@media (max-width: 1500px){
+}
+@media (max-width: 1200px){
+	#top-header{
+		text-align: center;
+	}
+	#top-header li{
+		margin: 3px 0px;
+	}
+}
+@media (max-width: 1000px) {
+	#about-us .about-left-img{
+		margin-bottom: 30px;
+	}
+	#get-now h2{
+		margin-bottom: 20px;
+	}
+	#get-now .get-now-right{
+		text-align: left;
+	}
+	#get-now .get-now-right ul li{
+		margin-left: 0px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	#faq .faq-accordion {
+    	margin-bottom: 0px;
+	}
+	#faq .faq-right-img{
+		position: relative;
+	}
+}
+@media (max-width: 991px) {
+	#top-header .navbar{
+		padding: 10px 0px;
+	}
+	#header .nav-link{
+		margin: 10px 0px;
+	}
+	#header .navbar-collapse{
+		margin-bottom: 25px;
+	}
+	#top-header ul.text-center{
+		margin-bottom: 10px;
+	}
+	.section-start-col{
+		width: 100% !important;
+	}
+	#services-items .service-single-bottom{
+		margin-bottom: 30px;
+	}
+	#appointment .appointment-form{
+		width: 100%;
+	}
+	#appointment .appointment-right{
+		position: relative;
+		max-width: 100%;
+	}
+	.item-col:last-child:after{
+		display: block;
+	}
+	#breadcrumb .breadcrumb-left,
+	#breadcrumb .breadcrumb-right{
+		text-align: center;
+	}
+	#sub-footer .sub-footer-left,
+	#sub-footer .sub-footer-right{
+		text-align: center;
+	}
+	#sub-footer .sub-footer-left,
+	#sub-footer .sub-footer-right{
+		margin-bottom: 5px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (max-width: 960px){
+}
+@media (max-width: 860px) {
+}	
+@media (max-width: 767px) {
+	#errorpage h1{
+		font-size: 2rem;
+	}
+	#errorpage .errorpage-right,
+	#errorpage .errorpage-left{
+		text-align: center;
+	}
+}
+@media (max-width: 700px) {
+	.section-start-col .float-left,
+	.section-start-col .float-right{
+		float: none !important;
+	}
+}
+@media (max-width: 600px) {
+	#slider-carousel .carousel-control-prev,
+	#slider-carousel .carousel-control-next{
+		display: none;
+	}
+	.sidebar-col .sidebar-recent-post img{
+		margin-bottom: 10px;
+	}
+	#blog .blog-comments img{
+		width: auto;
+	}
+	#reviews .review-card-img img{
+		width: auto;
+		margin-bottom: 20px;
+	}
+	#footer .footer-news-img img{
+		width: auto;
+		margin-bottom: 7px;
+	}
+	#reviews .review-bottom,
+	#footer .footer-news-content{
+		margin-left: 0;
+	}
+}
+@media (max-width: 500px) {
+	#appointment .appointment-bg{
+		padding: 40px;
+	}
+}
+@media (max-width: 470px) {
+}
+@media (max-width: 400px) {
+	#about-us ul li.about-phone{
+    	margin-top: 20px;
+    	font-size: 16px;
+	}
+}
+@media (max-width: 330px) {
+	#about-us ul li.about-phone{
+		margin-left: 0;
+	}
+}
